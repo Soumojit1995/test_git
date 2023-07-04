@@ -1,0 +1,9 @@
+<?php
+function writeMsg() {
+  echo "Hello world!";
+}
+
+function writeMsgInBranch2() {
+  echo "Hello world!";
+}
+?>
